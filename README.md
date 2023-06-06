@@ -1,3 +1,5 @@
+Monitoring Websites using Python
+
 Third Party Risk Management (TPRM) is the process of analyzing and controlling risks presented to your company, your data, your operations and your finances by parties OTHER than your own company. Due Diligence is the investigative process by which a company or other third party is reviewed to determine its suitability for a given task. Due diligence is an ongoing activity, including review, monitoring, and management communication over the entire vendor lifecycle. No universally-accepted framework like CObIT or COSO.
 ![image](https://github.com/Lokavardhan/Monitoring-Websites-using-Python-/assets/127578172/86e9f693-7614-4b30-881d-1ee4595f89fd)
 
