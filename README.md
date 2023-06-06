@@ -22,3 +22,7 @@ for index, websites in df.iterrows():
          df.at[index,"status_code"]= "site is not available"
 print(df) 
 ![image](https://github.com/Lokavardhan/Monitoring-Websites-using-Python-/assets/127578172/9ef47b77-7912-41d9-8599-b5017a52f3cd)
+
+
+![image](https://github.com/Lokavardhan/Monitoring-Websites-using-Python-/assets/127578172/713f7260-e1c0-414e-95c0-d33767690a62)
+
